@@ -12,7 +12,7 @@
     passenger value;
     bool used;
 };`
-  - Данные о авиарейсах хранятся в структуре (АВЛ-дерево) tree
+- Данные о авиарейсах хранятся в структуре (АВЛ-дерево) tree
 `  struct tree {
     flight value;
     int h;
@@ -25,8 +25,8 @@
         h = 1;
     }
 };`
- - Данные об авиабилетах хранятся в структуре (список) spisok.
-`struct spisok {
+- Данные об авиабилетах хранятся в структуре (список) spisok.
+`  struct spisok {
     std::string passport;
     std::string flightNum;
     std::string ticketNum;
@@ -34,4 +34,5 @@
     spisok* prev;
     spisok* next;
 };`
+
 
