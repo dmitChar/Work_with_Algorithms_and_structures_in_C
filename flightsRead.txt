@@ -1,0 +1,4 @@
+III-555;American Airlines;Sochi;Moskov;23:55;6 9 2023;250
+III-556;Aeroflot;Sochi;Moskov;6:30;28 7 2023;1
+AAA-000;Fly Emirates;Rostov-On-Don;Samara;12:00;12 12 2023;2
+BBB-000;Fly Emirates;Rostov-On-Don;Samara;12:00;12 12 2023;3
