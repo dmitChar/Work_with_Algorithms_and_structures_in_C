@@ -52,6 +52,9 @@
 14.	 Регистрация возврата билета
 15.	 Выход из программы
 
+## Главное меню приложения
+![image](https://github.com/user-attachments/assets/38de4c44-f39f-41a8-aee4-c2f271fcfffc)
+
 
 
 
