@@ -24,11 +24,11 @@
         h = 1;
     }
 };`
-- Данные об авиабилетах хранятся в структуре (список) spisok.
+- Данные об авиабилетах хранятся в структуре (список) spisok
 `  struct spisok {
-    std::string passport;
-    std::string flightNum;
-    std::string ticketNum;
+    string passport;
+    string flightNum;
+    string ticketNum;
 
     spisok* prev;
     spisok* next;
